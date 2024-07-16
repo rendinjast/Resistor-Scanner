@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Resistor Scanner</string>
+    <string name="dialog_message">This is an instruction message.</string>
+    <string name="dialog_title">Instructions</string>
+    <string name="dialog_ok">OK</string>
+    <string name="total">Total</string>
+    <string name="scanned">scanned</string>
+    <string name="no_resistor">No resistor scanned yet</string>
+    <string name="unknown_resistor">Unknown resistor</string>
+    <string name="confirm_delete_tags">Confirm deleting all scanned tags ?</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="camera_permission_needed">Camera permission is needed. Tap to enable it</string>
+    <string name="camera_permission_perma_denied">Camera permission has been denied. Go to device settings to enable it</string>
+    <string name="scan_again">Scan again</string>
+    <string name="remove_resistor">Remove resistor</string>
+    <string name="clear_all_resistors">Clear all resistors</string>
+    <string name="team">Team</string>
+    <string name="shutter_hint">Press the shutter button to save</string>
+    <string name="turn_on_flash">Turn on Flash</string>
+</resources>
